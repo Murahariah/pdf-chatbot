@@ -122,3 +122,9 @@ pdf-chatbot/
 - "Show the cable specifications in the table."
 - "What materials are used in the cable?"
 
+
+## Demo
+
+https://github.com/user-attachments/assets/fee4b463-067a-4477-b92b-f2f2bb7e5596
+
+
